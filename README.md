@@ -1,4 +1,4 @@
-# PLUM# Plumgoodness
+# Plumgoodness
 This is our first project at masai school construct week after learning HTML,CSS & JAVASCRIPT.
 
 # Contributors
